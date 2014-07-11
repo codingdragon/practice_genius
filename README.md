@@ -25,3 +25,9 @@ Restart Apache/Nginx Server
 Launch browser to http://laravel.demo
 
 Select the id number to view contents.
+
+Will Display 3 tables for the selected ID#
+
+1. Category & Weight
+2. Scheduled Posted Content
+3. Posted Content
